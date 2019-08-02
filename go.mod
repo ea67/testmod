@@ -1,3 +1,3 @@
-module github.com/objcoding/testmod
+module github.com/abc/testmod
 
 go 1.12
