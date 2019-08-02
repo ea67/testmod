@@ -1,3 +1,3 @@
-module github.com/abc/testmod
+module github.com/ea67/testmod
 
 
